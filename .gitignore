@@ -11,3 +11,7 @@ build/
 /tmp/
 checkpoint/
 *.zip
+
+# cấu hình riêng.
+AGENTS.md
+instruction.md
